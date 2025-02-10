@@ -9,7 +9,7 @@ If your support request is outside of the scope of what our team can help you wi
 * Open source projects
 * Writing or debugging new queries for {% data variables.product.prodname_codeql %}
 * Cloud provider configurations, such as virtual network setup, custom firewall, or proxy rules
-* Container orchestration, such as Kubernetes setup and networking
+* Container orchestration, such as Kubernetes setup, or networking
 * Detailed assistance with workflows and data management
 * {% data variables.release-phases.public_preview_caps %} features. Support for {% data variables.release-phases.public_preview %} features is out of {% data variables.contact.github_support %}'s scope. {% ifversion ghec or ghes %}For support with {% data variables.release-phases.public_preview %} features, you can contact your account manager on {% data variables.contact.contact_enterprise_sales %}.{% endif %}
 
